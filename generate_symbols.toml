@@ -1,0 +1,8 @@
+# Config file for the Banjo-Kazooie NTSC 1.0 Recompilation.
+
+[input]
+entrypoint = 0x80000400
+# Paths are relative to the location of this config file.
+output_func_path = "RecompiledFuncs"
+symbols_file_path = "BanjoRecompSyms/bk.us.rev0.syms.toml"
+rom_file_path = "banjo.us.v10.decompressed.z64"

@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Mod",
+            "includePath": [
+                "${workspaceFolder}/include",
+                "${workspaceFolder}/include/dummy_headers",
+                "${workspaceFolder}/bk-decomp/include",
+                "${workspaceFolder}/bk-decomp/include/2.0L",
+                "${workspaceFolder}/bk-decomp/include/2.0L/PR"
+            ],
+            "defines": [
+                "F3DEX_GBI_2",
+                "_LANGUAGE_C",
+                "MIPS"
+            ],
+            "compilerPath": "clang",
+            "cStandard": "c99",
+            "intelliSenseMode": "clang-x86"
+        }
+    ],
+    "version": 4
+}
