@@ -4,4 +4,4 @@ This is a Mod for Banjo-Kazooie: Recompiled that allows you to change the game's
 
 # Special Thanks
 
-Huge thanks to Dario and ProxySaw for helping me fix a pretty huge bug with heap in the v1.2 update
+Huge thanks to Dario, ProxySaw, and brochacho for helping me fix a pretty huge bug with heap in the v1.2 update
